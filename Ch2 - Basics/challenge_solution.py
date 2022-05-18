@@ -8,6 +8,8 @@ def is_palindrome(teststr):
         return True
     return False
 
+    #a comment
+
 run = True
 while (run):
     teststr = input("Enter string to test for palindrome or 'exit':")

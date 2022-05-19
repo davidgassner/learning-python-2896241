@@ -28,15 +28,7 @@
 		"python.linting.mypyPath": "/usr/local/py-utils/bin/mypy",
 		"python.linting.pycodestylePath": "/usr/local/py-utils/bin/pycodestyle",
 		"python.linting.pydocstylePath": "/usr/local/py-utils/bin/pydocstyle",
-		"python.linting.pylintPath": "/usr/local/py-utils/bin/pylint",
-		"editor.fontSize": 22,
-    "terminal.integrated.fontSize": 18,
-    "editor.tabSize": 2,
-    "editor.useTabStops": true,
-    "workbench.colorTheme": "Visual Studio Dark",
-    "window.zoomLevel": 1.4,
-    "editor.fontFamily": "ui-monospace, Menlo, Monaco, Cascadia Mono",
-    "editor.minimap.enabled": false
+		"python.linting.pylintPath": "/usr/local/py-utils/bin/pylint"
 	},
 
 	// Add the IDs of extensions you want installed when the container is created.

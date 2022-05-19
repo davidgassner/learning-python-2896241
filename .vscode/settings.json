@@ -1,0 +1,9 @@
+{
+  "editor.fontSize": 22,
+    "terminal.integrated.fontSize": 18,
+    "editor.tabSize": 2,
+    "editor.useTabStops": true,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "editor.fontFamily": "ui-monospace, Menlo, Monaco, Cascadia Mono",
+    "editor.minimap.enabled": false
+}

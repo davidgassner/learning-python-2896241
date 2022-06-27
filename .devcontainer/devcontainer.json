@@ -43,6 +43,6 @@
 	// Use 'postCreateCommand' to run commands after the container is created.
 	// "postCreateCommand": "pip3 install --user -r requirements.txt",
 
-	"onCreateCommand": "onCreateCommand": "sudo cp ${containerWorkspaceFolder}/.devcontainer/welcome-text.txt /usr/local/etc/vscode-dev-containers/first-run-notice.txt && echo PS1='\"$ \"' >> ~/.bashrc"
+	"onCreateCommand": "sudo cp ${containerWorkspaceFolder}/.devcontainer/welcome-text.txt /usr/local/etc/vscode-dev-containers/first-run-notice.txt && echo PS1='\"$ \"' >> ~/.bashrc"
 
 }

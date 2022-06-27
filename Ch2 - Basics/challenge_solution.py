@@ -12,7 +12,7 @@ def is_palindrome(teststr):
 
 run = True
 while (run):
-    teststr = input("Enter string to test for palindrome or 'exit':")
+    teststr = input("Enter string to test for a palindrome or 'exit':")
 
     # If the user types "exit" then quit the program
     if teststr == "exit":
